@@ -1,4 +1,4 @@
-public class AndraDenis {
+public class Andra {
 	public static void main (String[] args) {
 		int[] array = {1, 2, 3, 4};
 		int sum = 0;
