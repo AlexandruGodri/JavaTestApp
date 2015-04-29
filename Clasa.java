@@ -6,13 +6,16 @@ public static void main(String[] args){
 
 	int x=7;
 	int y=5;
-	int max=0;
-	if(x>y)
+	int max=0,min=0;
+	if(x>y) {
 		max=x;
-	else 
+		min=y;
+	}else { 
 		max=y;
-
+		min=x;
+	}
 	System.out.println("Maximul este: "+max);
+	System.out.println("Minimul este: "+min);
 
 
 
