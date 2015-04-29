@@ -6,7 +6,7 @@ public static void main(String[] args){
 
 	int x=7;
 	int y=5;
-	int max=0,min=0;
+	int max=0;
 	if(x>y) {
 		max=x;
 		min=y;
